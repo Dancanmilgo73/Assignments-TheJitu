@@ -35,4 +35,5 @@ const getInputAndDisplay = () => {
     process.exit();
   });
 };
+
 getInputAndDisplay();

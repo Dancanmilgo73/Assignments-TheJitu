@@ -10,4 +10,4 @@ const fizzBuzz = () => {
   }
 };
 
-console.log(fizzBuzz());
+fizzBuzz();
